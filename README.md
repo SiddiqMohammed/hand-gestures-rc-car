@@ -1,4 +1,9 @@
 # hand-gestures-rc-car
+The project is also known as "MAGIC", which stands for "Motion Activated and Gesture Initiated control"
+
+
+
+
 
 This project was built upon the hand gesture code written by Sadaival [https://github.com/Sadaival/Hand-Gestures]
 Libraries used in the project - openCV, & Serial
